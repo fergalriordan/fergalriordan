@@ -1,5 +1,3 @@
-# Hi, I'm Fergal 👋
-
 ### ML Engineer | 1.1 MEng in Electronic & Computer Engineering
 
 I am an ML Engineer focused on the intersection of **efficient architecture** and **real-world impact.** With a background in Electronic & Computer Engineering from Trinity College Dublin, I bridge the gap between high-level deep learning research and high-performance production deployment.
